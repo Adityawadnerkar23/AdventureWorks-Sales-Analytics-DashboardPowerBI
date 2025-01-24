@@ -5,6 +5,7 @@ The AdventureWorks Report is designed to provide actionable insights for stakeho
 - Sales performance: Analyze revenue trends and sales by region or product category.
 - Customer analysis: Understand customer demographics and purchasing patterns.
 - Product performance: Assess top-performing products and inventory trends.
+
  **The goal of this project is to demonstrate advanced data analysis and reporting skills using Power BI.**
 
 # Key Features
