@@ -38,4 +38,4 @@ Each page is designed with interactive visuals, including:
 + Maps for geographic data.
 + Tables and matrices for granular details.
 
- # Refer the (../How_to_use.md) file to Generate the Project
+ # Refer the ([../How_to_use.md](https://github.com/Adityawadnerkar23/BusinessPortfolio-PowerBI/blob/833603113b11db88cd5f5cab45477dfed27369af/How_to_use.md)) file to Generate the Project
