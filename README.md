@@ -8,7 +8,7 @@ A comprehensive Power BI report analyzing data from the AdventureWorks dataset. 
 </br>
 - Product performance: Assess top-performing products and inventory trends.
 </br>
-<ins>The goal of this project is to demonstrate advanced data analysis and reporting skills using Power BI.</ins>
+**<ins>The goal of this project is to demonstrate advanced data analysis and reporting skills using Power BI.</ins>**
 
 # Key Features
 Interactive dashboards with slicers and filters.
