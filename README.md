@@ -5,8 +5,10 @@ A comprehensive Power BI report analyzing data from the AdventureWorks dataset. 
 *Sales performance: Analyze revenue trends and sales by region or product category.
 </br>
 *Customer analysis: Understand customer demographics and purchasing patterns.
+</br>
 *Product performance: Assess top-performing products and inventory trends.
-The goal of this project is to demonstrate advanced data analysis and reporting skills using Power BI.
+</br>
+<ul>The goal of this project is to demonstrate advanced data analysis and reporting skills using Power BI.</ul>
 # Key Features
 Interactive dashboards with slicers and filters.
 Advanced DAX measures for custom calculations.
