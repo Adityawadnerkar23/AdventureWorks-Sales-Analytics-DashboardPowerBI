@@ -38,4 +38,4 @@ Each page is designed with interactive visuals, including:
 + Maps for geographic data.
 + Tables and matrices for granular details.
 
- **Refer the /How to us.md file to Generate the Project**
+ **Refer the (/How to us.md) file to Generate the Project**
