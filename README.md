@@ -2,7 +2,7 @@
 A comprehensive Power BI report analyzing data from the AdventureWorks dataset. This report provides insights into sales, customer behavior, and product performance using interactive visualizations and advanced data modeling techniques
 # Overview
 <h3>The AdventureWorks Report is designed to provide actionable insights for stakeholders in areas such as:</h3>
-*Sales performance: Analyze revenue trends and sales by region or product category.
+* Sales performance: Analyze revenue trends and sales by region or product category.
 </br>
 - Customer analysis: Understand customer demographics and purchasing patterns.
 </br>
