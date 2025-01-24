@@ -9,9 +9,13 @@ The AdventureWorks Report is designed to provide actionable insights for stakeho
  **The goal of this project is to demonstrate advanced data analysis and reporting skills using Power BI.**
 
 # Key Features
-Interactive dashboards with slicers and filters.
-Advanced DAX measures for custom calculations.
-Data relationships modeled to ensure accurate insights.
-Multi-page reports for granular analysis of different business aspects.
-
+- Interactive dashboards with slicers and filters.
+- Advanced DAX measures for custom calculations.
+- Data relationships modeled to ensure accurate insights.
+- Multi-page reports for granular analysis of different business aspects.
+# Data Sources
+This report is built on the AdventureWorks dataset, which includes:
++ Sales data: Order history, revenue, and regional sales performance.
++ Product data: Details about product categories, SKUs, and inventory.
++ Customer data: Demographic and geographic details of customers.
 
