@@ -1,4 +1,5 @@
-# AdventureWorks Report [Report PDF](https://github.com/Adityawadnerkar23/AdventureWorks-Sales-Analytics-DashboardPowerBI/AdventureWorks_Report_FINAL.pdf)
+# AdventureWorks Report 
+[Report PDF](https://github.com/Adityawadnerkar23/AdventureWorks-Sales-Analytics-DashboardPowerBI/AdventureWorks_Report_FINAL.pdf)
 A comprehensive Power BI report analyzing data from the AdventureWorks dataset. This report provides insights into sales, customer behavior, and product performance using interactive visualizations and advanced data modeling techniques
 # Overview
 The AdventureWorks Report is designed to provide actionable insights for stakeholders in areas such as:
